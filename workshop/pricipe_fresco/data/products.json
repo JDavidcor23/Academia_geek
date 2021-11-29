@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "img": [
+        "https://i.ibb.co/qrnBncX/Rectangle-1.png",
+        "https://i.ibb.co/N6Fyw6r/Rectangle-3.png",
+        "https://i.ibb.co/3RZ8gZN/Rectangle-2.png"
+      ],
+      "nombre": "Crown Sweatshirt",
+      "precio": 80,
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae incidunt molestias doloremque assumenda perspiciatis omnis nemo a. Doloribus numquam tempora eligendi, nihil consequuntur et aliquam? Ea maxime libero veniam?"
+    },
+    {
+      "id": 2,
+      "img": [
+        "https://i.ibb.co/dpwt68h/Rectangle-4-1.png",
+        "https://i.ibb.co/F4GvJqX/Frame-18.png",
+        "https://i.ibb.co/wWJk20K/Rectangle-6-1.png"
+      ],
+      "nombre": "Fresh Black Tie-Dye Hoodie",
+      "precio": 75,
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae incidunt molestias doloremque assumenda perspiciatis omnis nemo a. Doloribus numquam tempora eligendi, nihil consequuntur et aliquam? Ea maxime libero veniam?"
+    },
+    {
+      "id": 3,
+      "img": [
+        "https://i.ibb.co/LzcP47b/Rectangle-4-2.png",
+        "https://i.ibb.co/7JDk9sd/Frame-21.png",
+        "https://i.ibb.co/LJcR0Pk/Rectangle-4-2.png"
+      ],
+      "nombre": "Pose For It Tee",
+      "precio": 45,
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae incidunt molestias doloremque assumenda perspiciatis omnis nemo a. Doloribus numquam tempora eligendi, nihil consequuntur et aliquam? Ea maxime libero veniam?"
+    },
+    {
+      "id": 4,
+      "img": [
+        "https://i.ibb.co/zspzHfD/Rectangle-4.png",
+        "https://i.ibb.co/58pWYmP/Rectangle-5.png",
+        "https://i.ibb.co/crhSzvY/Rectangle-6.png"
+      ],
+      "nombre": "Fresh Stripe Sweater",
+      "precio": 85,
+      "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore, quae incidunt molestias doloremque assumenda perspiciatis omnis nemo a. Doloribus numquam tempora eligendi, nihil consequuntur et aliquam? Ea maxime libero veniam?"
+    }
+   
+  ]
+}

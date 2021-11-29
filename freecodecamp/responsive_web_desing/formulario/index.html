@@ -1,0 +1,100 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles/main.css">
+    <title>Formulario</title>
+</head>
+<body>
+    <header>
+        <h1 id="title">Encuesta de satisfacción</h1>
+        <p id="description">Ayudanos a ser mejorar nuestra plataforma</p>
+    </header>
+    <main>
+        <form action="" id="survey-form">
+            <div class="main-input">
+                <label for="" id="name-label">Nombre
+                </label>
+                <input type="text" id="name" placeholder="Enter your name">
+                <label for="" id="email-label">Email
+                </label>
+                <input type="email" id="email" placeholder="Enter your email">
+                <label for="" id="number-label">Número
+                </label>
+                <input type="number" id="number" min="10" max="99" placeholder="Enter your number">
+                <div class="container-selection">
+                    <label id="experiencia-label">Experiencia</label>
+                    <select name="" id="dropdown">
+                        <option disabled selected value>Selecciona tu experiencia</option>
+                        <option value="buena">Buena</option>
+                        <option value="regular">Regular</option>
+                        <option value="mala">Mala</option>
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">  
+                <p>Especialidad</p>        
+                <label
+                  ><input
+                    name="prefer"
+                    value="front-end"
+                    type="checkbox"
+                    class="input-checkbox"
+                  />Front-end</label
+                >
+                <label>
+                  <input
+                    name="prefer"
+                    value="back-end"
+                    type="checkbox"
+                    class="input-checkbox"
+                  />Back-end</label
+                >
+                <label
+                  ><input
+                    name="prefer"
+                    value="data-science"
+                    type="checkbox"
+                    class="input-checkbox"
+                  />Data Science</label
+                >
+            </div>
+            <div class="form-group">
+                <p>Recomendarias la pagina a tus amigos</p>
+                <label>
+                  <input
+                    name="user-recommend"
+                    value="definitivamente"
+                    type="radio"
+                    class="input-radio"
+                    checked
+                  />Definitivamente</label
+                >
+                <label>
+                  <input
+                    name="user-recommend"
+                    value="tal-vez"
+                    type="radio"
+                    class="input-radio"
+                  />Tal vez</label
+                >
+          
+                <label
+                  ><input
+                    name="user-recommend"
+                    value="no"
+                    type="radio"
+                    class="input-radio"
+                  />No</label
+                >
+              </div>
+              <div class="container-textarea">
+                  <p>Añade un comentario</p>
+                  <textarea name="" id="" cols="30" rows="10"></textarea>
+            </div>
+            <button type="submit">Enviar</button>
+        </form>
+    </main> 
+</body>
+</html>

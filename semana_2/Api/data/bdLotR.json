@@ -1,0 +1,59 @@
+{
+    "lotr": [
+        {
+            "id": 1,
+            "nombre": "Frodo Bolson",
+            "genero": "masculino",
+            "vivo": true,
+            "amigos": [
+                "Bilbo Bolson",
+                "Sam Gamyi",
+                "Pippin",
+                "Merry"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://static.wikia.nocookie.net/eldragonverde/images/8/86/Frodo.png/revision/latest?cb=20130111173851&path-prefix=es"
+        },
+        {
+            "id": 2,
+            "nombre": "Gollum",
+            "genero": "masculino",
+            "vivo": false,
+            "amigos": [
+                "Anillo",
+                "Sméagol"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://static.wikia.nocookie.net/eldragonverde/images/6/6a/Gollum.png/revision/latest?cb=20130207121601&path-prefix=es"
+        },
+        {
+            "id": 3,
+            "nombre": "Gandalf el blanco",
+            "genero": "masculino",
+            "vivo": true,
+            "amigos": [
+                "Bilbo Bolson",
+                "Sam Gamyi",
+                "Pippin",
+                "Merry",
+                "Legolas",
+                "Aragorn",
+                "Gimli"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://static.wikia.nocookie.net/eldragonverde/images/6/6b/Gandalf.jpg/revision/latest/scale-to-width-down/250?cb=20110619173308&path-prefix=es"
+        },
+        {
+            "id": 4,
+            "nombre": "Sauron",
+            "genero": "masculino",
+            "vivo": false,
+            "amigos": [
+                "Siervos",
+                "Saruman"
+            ],
+            "historia": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "imagen": "https://static.wikia.nocookie.net/eldragonverde/images/3/3a/Sauron.jpg/revision/latest?cb=20110626161300&path-prefix=es"
+        }
+    ]
+}

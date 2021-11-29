@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622239/iconos/4_mjaxmb.png",
+      "name": "Isabella",
+      "email": "isa@gmail.com",
+      "description": "Lorem Ipsum",
+      "id": 1
+    },
+    {
+      "url": "https://res.cloudinary.com/duzf4vfki/image/upload/v1637622238/iconos/2_aywkbg.png",
+      "name": "Carlos",
+      "email": "carlos@gmail.com",
+      "description": "Lorem Ipsum",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+:root {
+  --pink: #fec7d7;
+  --black: #0e172c;
+  --grey: #535353;
+  --cian: #85d1ce;
+  --secondary: #a786df;
+  --tertiary: #d9d4e7;
+  --white: #fffffe;
+}
+body {
+  background-color: var(--pink);
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  height: 185px;
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  width: 100%;
+  background: white;
+}
+.container-perfil-vendedor {
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.arrow-black {
+  top: 4px;
+  cursor: pointer;
+  left: 6px;
+  position: absolute;
+}
+.container-perfil-vendedor img {
+  border: 5px solid var(--cian);
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.container-text-menssage {
+  display: flex;
+  position: relative;
+  height: 550px;
+  flex-direction: column;
+}
+.message-text {
+  width: 90%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.hora {
+  text-align: center;
+}
+.message-text {
+  width: 90%;
+  height: 70px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+.message-white .text {
+  position: absolute;
+  right: 9px;
+  top: 20px;
+  border-radius: 35px;
+  font-size: 1.2rem;
+  background: var(--white);
+  padding: 30px;
+  width: 220px;
+}
+.message-black .text {
+  width: 270px;
+  background: var(--grey);
+  color: white;
+  padding: 30px;
+  border-radius: 35px;
+  font-size: 1.2rem;
+  top: 160px;
+  left: 5px;
+  position: absolute;
+}
+.container-input {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container-input input {
+  width: 100%;
+  color: black;
+  font-weight: bold;
+  padding: 5px;
+  font-size: 1.4rem;
+}

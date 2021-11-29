@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "url": "https://files.mormonsud.org/wp-content/uploads/2019/05/severus-snape.jpg",
+      "nombre": "Severus Snape",
+      "correo": "severus@gmail.com",
+      "descripcion": "legerement",
+      "id": 1
+    },
+    {
+      "url": "https://wl-genial.cf.tsp.li/resize/728x/jpg/fb1/d1b/28cce45b038d6baddba3db025d.jpg",
+      "nombre": "Harry Potter",
+      "correo": "harry@gamil.com",
+      "descripcion": "expeliarmus",
+      "id": 2
+    },
+    {
+      "url": "https://elcomercio.pe/resizer/9VpM9n9v6HlAX0IP2u9gezKrBSo=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/AEWI5IA2LZGFBHGUBG46XIHKUA.jpg",
+      "nombre": "Ron Weasley",
+      "correo": "ron@gmail.com",
+      "descripcion": "hermione",
+      "id": 3
+    },
+    {
+      "url": "https://static.vix.com/es/sites/default/files/styles/1x1/public/btg/harry_potter_mujeres-7.jpg",
+      "nombre": "Hermione Granger",
+      "correo": "hermione@gmail.com",
+      "descripcion": "ron",
+      "id": 4
+    }
+  ]
+}
