@@ -1,0 +1,1 @@
+export const url = "https://ejercicio-07-12-2021.herokuapp.com/registros/"

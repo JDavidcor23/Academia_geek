@@ -1,0 +1,13 @@
+{
+    "equipos":[
+        {
+            "id":1,
+            "equipo":"Real madrid",
+            "deporte":"futbol",
+            "jugador":"Benzema",
+            "escudo":"https://res.cloudinary.com/dhu6ga6hl/image/upload/v1638900930/jfcudpcdri9wwvpdbj0o.png",
+            "titulos":"13 copas de europa"
+    
+        }
+    ]
+}
